@@ -1,0 +1,2 @@
+/home/jmueller3311/git/OpenAudioMixer/build/CMakeFiles/edit_cache.dir
+/home/jmueller3311/git/OpenAudioMixer/build/CMakeFiles/rebuild_cache.dir
